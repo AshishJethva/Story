@@ -1,7 +1,7 @@
 /* Git Commands                       --> Version Control.
 git init
 git status                            --> Files are inside Working Directory but not in "Staging Area".
-git add .  OR  git add <chapter1.txt> --> Files "Staging Area" ma aavi jay -> To keep track of changes.
+git add .                             --> Files "Staging Area" ma aavi jay -> To keep track of changes.
 git commit -m ""                      --> Commit Message.
 git log                               --> To get the record of the commits.
 
