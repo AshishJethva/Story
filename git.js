@@ -13,6 +13,7 @@ git remote add origin <url>           --> git remote add <name> <url>  // url of
 git push -u origin main               --> git push -u <remote name> <branch name>
 
 // .gitignore
+touch .gitignore                      --> To make gitignore file.
 git rm --cached -r .                  --> Badhi files ne staging area mathi remove karva mate.
 
 // Clone
@@ -23,4 +24,5 @@ git branch <git branch alien-plot>
 git branch                            --> To see all available branches.
 git checkout <alien-plot>             --> To Switch to the branch 'alien-plot'.
 git merge <alien-plot>                --> To merge branch with our main branch.
+
 */
